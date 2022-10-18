@@ -1,35 +1,35 @@
-justify-end
+1/ justify-end
 
-justify-center
+2/justify-center
 
-justify-around
+3/justify-around
 
-justify-between
+4/justify-between
 
-items-center
+5/items-center
 
-justify-center  items-center
+6/justify-center  items-center
 
-justify-around items-end 
+7/justify-around items-end 
 
-flex-row-reverse
+8/flex-row-reverse
 
-flex-col
+9/flex-col
 
-flex-col-reverse justify-center items-end
+10/flex-col-reverse justify-center items-end
 
-order-1
+11/order-1
 
-order-first
+12/order-first
 
-self-center
+13/self-center
 
-order-1 self-end
+14/order-1 self-end
 
-flex-wrap
+15/flex-wrap
 
-flex-wrap flex-wrap-reverse justify-end
+16/flex-wrap flex-wrap-reverse justify-end
 
-content-between
+17/content-between
 
-flex-wrap content-center flex-wrap-reverse justify-center
+18/flex-wrap content-center flex-wrap-reverse justify-center
