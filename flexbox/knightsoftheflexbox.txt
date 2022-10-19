@@ -1,4 +1,4 @@
-1/ justify-end
+1/justify-end
 
 2/justify-center
 
